@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @QuizLeapsBooks
+- 👋 Hi, I’m @Shubahm_Singh
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? My Gmail- kundankush659@gmail.com
+- 📫 How to reach me? My email- shubhams1ngh@proton.me
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am 13 years old in 2024.
+- A class 10 school student
 
 <!---
 QuizLeapsBooks/QuizLeapsBooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
